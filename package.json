@@ -8,7 +8,8 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:pwa-auto-hr": "node dist/pwa-auto-hr/server/server.mjs",
-    "gh-pages": "node scripts/ghp-creator.js"
+    "gh-pages": "node scripts/ghp-creator.js",
+    "build-gh-pages": "ng build --base-href=pwa-auto-hr"
   },
   "private": true,
   "dependencies": {
