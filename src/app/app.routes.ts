@@ -9,10 +9,6 @@ export const routes: Routes = [
   },
   {
     component: MainPageComponent,
-    path: '/'
-  },
-  {
-    component: MainPageComponent,
     path: 'main'
   },
   {
