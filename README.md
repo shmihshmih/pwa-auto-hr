@@ -42,5 +42,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 7. Karma + jasmine
 8. storybook?
 
+## how deploy
+npm run build-gh-pages
+npm run gh-pages
+
 add /src/environments/environment.prod.ts before using
 example in /src/environments/environment.ts

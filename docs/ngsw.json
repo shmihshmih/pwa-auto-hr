@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1719244100467,
+  "timestamp": 1719328217253,
   "index": "pwa-auto-hr/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "pwa-auto-hr/favicon.ico",
         "pwa-auto-hr/index.html",
-        "pwa-auto-hr/main-WE4JI6CC.js",
+        "pwa-auto-hr/main-IB7IL7W3.js",
         "pwa-auto-hr/manifest.webmanifest",
         "pwa-auto-hr/polyfills-N6LQB2YD.js",
         "pwa-auto-hr/styles-5INURTSO.css"
@@ -51,8 +51,8 @@
     "pwa-auto-hr/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "pwa-auto-hr/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "pwa-auto-hr/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "pwa-auto-hr/index.html": "537778ba09f44c6c4e3b60a6f4a52a06bd4a0c36",
-    "pwa-auto-hr/main-WE4JI6CC.js": "fe3ca19a3126ba9a6d750e00eee2ff2658c722a1",
+    "pwa-auto-hr/index.html": "4d892d47a40c2774823c9a018a953f2c8e64ec40",
+    "pwa-auto-hr/main-IB7IL7W3.js": "44be5e5df14817cffca7f2661f6d46906d951f53",
     "pwa-auto-hr/manifest.webmanifest": "b01d89f77a574a7f1408ec8c47d3f69f4ff3b21a",
     "pwa-auto-hr/polyfills-N6LQB2YD.js": "52a57fff1bfa58a16f07a379b0cecf9fd01868e2",
     "pwa-auto-hr/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
