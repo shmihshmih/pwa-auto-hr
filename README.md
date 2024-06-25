@@ -41,3 +41,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 6. @angular/localize
 7. Karma + jasmine
 8. storybook?
+
+add /src/environments/environment.prod.ts before using
+example in /src/environments/environment.ts
